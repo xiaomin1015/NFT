@@ -1,0 +1,24 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Artist style", 
+            "value": "Walter Crane"
+        }, 
+        {
+            "trait_type": "Collection", 
+            "value": "Portrait"
+        }, 
+        {
+            "trait_type": "Series", 
+            "value": "angel"
+        }, 
+        {
+            "trait_type": "ID in this series", 
+            "value": 1
+        }
+    ], 
+    "image": "https://gateway.pinata.cloud/ipfs/QmaaTzThAZum4fiZXNUMeRgeZSxU2YPnQcmd8kchdQ2gMo/22.png", 
+    "description": "AI Generative Art of diffrent style and content, some of them are unorthodox and experimental, some look just like fine art paintings created by specific artists", 
+    "name": "ZZ_Bear_22", 
+    "tokenId": 22
+}

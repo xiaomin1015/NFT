@@ -1,0 +1,24 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Artist style", 
+            "value": "Miho Hirano"
+        }, 
+        {
+            "trait_type": "Collection", 
+            "value": "Portrait"
+        }, 
+        {
+            "trait_type": "Series", 
+            "value": "young grils"
+        }, 
+        {
+            "trait_type": "ID in this series", 
+            "value": 5
+        }
+    ], 
+    "image": "https://gateway.pinata.cloud/ipfs/QmaaTzThAZum4fiZXNUMeRgeZSxU2YPnQcmd8kchdQ2gMo/70.png", 
+    "description": "AI Generative Art of diffrent style and content, some of them are unorthodox and experimental, some look just like fine art paintings created by specific artists", 
+    "name": "ZZ_Bear_70", 
+    "tokenId": 70
+}
